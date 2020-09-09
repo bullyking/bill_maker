@@ -1,0 +1,16 @@
+.cover_bg01 {
+    background-image: url(../../../../images/background/horse_running_1920x900.jpg);
+}
+
+.cover_bg02 {
+    background-image: url(../../../../images/background/beach_fantasy_girl_1920x900.jpg);
+}
+
+.cover_bg03 {
+    background-image: url(../../../../images/background/moon_forest_dream_1920x900.jpg);
+}
+
+.card-bill {
+    height: 430px;
+    background-color: #525252;
+}
