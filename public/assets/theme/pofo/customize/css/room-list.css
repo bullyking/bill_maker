@@ -1,0 +1,35 @@
+.cover_bg {
+    background-image: url(../../../../images/background/armenia_1920x1080.jpg);
+}
+
+.blog-post-style3 .blog-post .blog-categories {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 25;
+    padding: 10px 20px 8px;
+}
+
+.blog-post-style3 .blog-post .blog-categories-right {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 25;
+    padding: 10px 20px 8px;
+}
+
+.blog-post-images {
+    cursor: pointer;
+}
+
+#section_manage_room {
+    padding: 0px 0px !important;
+}
+
+.date .check_in_date {
+    border: 1px solid #ced4da;
+}
+
+.date .dob {
+    border: 1px solid #ced4da;
+}

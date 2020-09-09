@@ -1,0 +1,66 @@
+.text-center {
+    text-align: center !important;
+}
+
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+.text-bold {
+    font-weight: bold !important;
+}
+
+.font-weight-300 {
+    font-weight: 300 !important;
+}
+
+.font-weight-400 {
+    font-weight: 400 !important;
+}
+
+.float-left {
+    float: left !important;
+}
+
+.font-header {
+    font-size: 18px !important;
+}
+
+.font-header:hover {
+    color: black !important;
+}
+
+.line-limit-1 {
+    overflow: hidden;
+    text-overflow: ellipsis !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 1 !important;
+    -webkit-box-orient: vertical !important;
+    margin: 0 0 0px !important;
+}
+
+.line-limit-2 {
+    overflow: hidden;
+    text-overflow: ellipsis !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    margin: 0 0 0px !important;
+}
+
+.line-limit-3 {
+    overflow: hidden;
+    text-overflow: ellipsis !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 3 !important;
+    -webkit-box-orient: vertical !important;
+    margin: 0 0 0px !important;
+}
+
+a.font-header.active {
+    color: rgb(255, 33, 138) !important;
+}
+
+a.font-header.hover {
+    color: rgb(255, 33, 138) !important;
+}
